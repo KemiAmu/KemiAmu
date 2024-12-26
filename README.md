@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hello stranger, I'm just an ordinary Joe, honored that you've stumbled upon me (though it's all rather pointless).
 
-I admit, this intro's probably about as weird as it gets, considering I don't know English from a hole in the ground. So, yeah, all of this is just some software's doing, even my name's a phonetic translation.
+I admit, this intro's probably about as weird as it gets, considering I don't know English from a hole in the ground. So, yeah, all of this is just some software's doing, including my name, which is supposed to sound like /ˈkæɪ̯mi ɑˈmu/. 🙄✨
 
 - 🔭 I’m currently working on _embracing the chaos that is my terrible life_.
 - 🌱 I’m currently learning _how to avoid nightmares_. 💤
