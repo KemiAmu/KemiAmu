@@ -1,3 +1,5 @@
+__English__ | [中文](README_zh.md)
+
 ## Hi there 👋
 Hello stranger, I'm just an ordinary Joe, honored that you've stumbled upon me (though it's all rather pointless).
 
